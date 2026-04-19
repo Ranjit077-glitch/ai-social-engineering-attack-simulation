@@ -22,6 +22,26 @@ This project demonstrates a simulated social engineering attack enhanced with AI
 
 ---
 
+## 📸 Screenshots
+
+### Zphisher Setup
+![Zphisher Setup](images/Zphisher-setup.png)
+![Zphisher Setup](images/Zphisher-setup2.png)
+
+### Phishing Link Generation
+![Phishing](images/phishing-link.png)
+![Phishing](images/phishing-link2.png)
+![Phishing](images/phishing-link3.png)
+![Phishing](images/phishing-link4.png)
+
+### Fake Login Page
+![Login](images/fake-login.png)
+
+### Deepfake Video Generation
+![Deepfake](images/Deepfake-video.png)
+
+---
+
 ## ⚙️ Methodology
 
 ### 1. Lab Setup
